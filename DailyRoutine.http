@@ -1,0 +1,6 @@
+@DailyRoutine_HostAddress = http://localhost:5101
+
+GET {{DailyRoutine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
